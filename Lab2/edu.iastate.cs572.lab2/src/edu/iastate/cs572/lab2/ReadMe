@@ -1,0 +1,2 @@
+The main method is in Checkers.java
+To change the max depth, use the static final variable MAX_DEPTH in CheckersAlphaBetaSearch.java
