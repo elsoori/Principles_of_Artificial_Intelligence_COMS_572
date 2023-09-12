@@ -1,0 +1,260 @@
+net
+{
+	propagationenginegenerator1791944048146838126L = "edu.ucla.belief.approx.BeliefPropagationSettings@6598907d";
+	recoveryenginegenerator6944530267470113528l = "edu.ucla.util.SettingsImpl@20eee9cf";
+	node_size = (130.0 55.0);
+}
+
+node Coin1
+{
+	states = ("Heads" "Tails" );
+	position = (164 -14);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable0";
+	label = "Coin1";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node S8
+{
+	states = ("T" "F" );
+	position = (507 -602);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable14";
+	label = "S8";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Coin4
+{
+	states = ("Heads" "Tails" );
+	position = (171 -295);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable3";
+	label = "Coin4";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Coin5
+{
+	states = ("Heads" "Tails" );
+	position = (169 -392);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin5";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Coin2
+{
+	states = ("Heads" "Tails" );
+	position = (165 -107);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable1";
+	label = "Coin2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Coin6
+{
+	states = ("Heads" "Tails" );
+	position = (167 -477);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable5";
+	label = "Coin6";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Coin3
+{
+	states = ("Heads" "Tails" );
+	position = (166 -202);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable2";
+	label = "Coin3";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Coin7
+{
+	states = ("Heads" "Tails" );
+	position = (173 -557);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable6";
+	label = "Coin7";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node S5
+{
+	states = ("T" "F" );
+	position = (511 -325);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable11";
+	label = "S5";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node S4
+{
+	states = ("T" "F" );
+	position = (512 -236);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable16";
+	label = "S4";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Coin8
+{
+	states = ("Heads" "Tails" );
+	position = (166 -635);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable7";
+	label = "Coin8";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node S6
+{
+	states = ("T" "F" );
+	position = (509 -415);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable12";
+	label = "S6";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node S2
+{
+	states = ("T" "F" );
+	position = (515 -23);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable8";
+	label = "S2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node S3
+{
+	states = ("T" "F" );
+	position = (513 -137);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable9";
+	label = "S3";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node S7
+{
+	states = ("T" "F" );
+	position = (508 -508);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable13";
+	label = "S7";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+potential ( Coin1 | )
+{
+	data = (	0.5	0.5	);
+}
+potential ( S8 | S7 )
+{
+	data = ((	1.0	0.0	)
+		(	0.4	0.6	));
+}
+potential ( Coin4 | S4 )
+{
+	data = ((	0.7	0.3	)
+		(	0.5	0.5	));
+}
+potential ( Coin5 | S5 )
+{
+	data = ((	0.7	0.3	)
+		(	0.5	0.5	));
+}
+potential ( Coin2 | S2 )
+{
+	data = ((	0.7	0.3	)
+		(	0.5	0.5	));
+}
+potential ( Coin6 | S6 )
+{
+	data = ((	0.7	0.3	)
+		(	0.5	0.5	));
+}
+potential ( Coin3 | S3 )
+{
+	data = ((	0.7	0.3	)
+		(	0.5	0.5	));
+}
+potential ( Coin7 | S7 )
+{
+	data = ((	0.7	0.3	)
+		(	0.5	0.5	));
+}
+potential ( S5 | S4 )
+{
+	data = ((	1.0	0.0	)
+		(	0.4	0.6	));
+}
+potential ( S4 | S3 )
+{
+	data = ((	1.0	0.0	)
+		(	0.4	0.6	));
+}
+potential ( Coin8 | S8 )
+{
+	data = ((	0.7	0.3	)
+		(	0.5	0.5	));
+}
+potential ( S6 | S5 )
+{
+	data = ((	1.0	0.0	)
+		(	0.4	0.6	));
+}
+potential ( S2 | )
+{
+	data = (	0.4	0.6	);
+}
+potential ( S3 | S2 )
+{
+	data = ((	1.0	0.0	)
+		(	0.4	0.6	));
+}
+potential ( S7 | S6 )
+{
+	data = ((	1.0	0.0	)
+		(	0.4	0.6	));
+}
