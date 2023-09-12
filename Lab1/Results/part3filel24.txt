@@ -1,0 +1,535 @@
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131449.txt
+Generated nodes:  101156
+ Time taken for BFS = 0.2773829481601715 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 12996
+ Time taken for A*linear = 0.02244111204147339 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1765
+ Time taken for A* manhattan = 0.0004798581600189209 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1765
+ Time taken for A* max_heuristics = 0.00048483514785766603 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131271.txt
+Generated nodes:  111253
+ Time taken for BFS = 0.3199503710269928 ms
+Path length: 24
+['UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN']
+
+
+
+
+Number of Generated Nodes: 14705
+ Time taken for A*linear = 0.028029550790786742 ms
+Path length: 24
+['UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN']
+
+
+Number of Generated Nodes: 1158
+ Time taken for A* manhattan = 0.000211472749710083 ms
+Path length: 24
+['DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1158
+ Time taken for A* max_heuristics = 0.0002147819995880127 ms
+Path length: 24
+['DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131311.txt
+Generated nodes:  116050
+ Time taken for BFS = 0.33956244397163393 ms
+Path length: 24
+['DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'DOWN']
+
+
+
+
+Number of Generated Nodes: 15201
+ Time taken for A*linear = 0.029666434049606324 ms
+Path length: 24
+['LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1433
+ Time taken for A* manhattan = 0.0003163800239562988 ms
+Path length: 24
+['LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1433
+ Time taken for A* max_heuristics = 0.00032096290588378904 ms
+Path length: 24
+['LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131304.txt
+Generated nodes:  107329
+ Time taken for BFS = 0.3112962169647217 ms
+Path length: 24
+['DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 13234
+ Time taken for A*linear = 0.023154119968414308 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN']
+
+
+Number of Generated Nodes: 2311
+ Time taken for A* manhattan = 0.0008027889728546143 ms
+Path length: 24
+['DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 2311
+ Time taken for A* max_heuristics = 0.0008090932369232178 ms
+Path length: 24
+['DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131264.txt
+Generated nodes:  114280
+ Time taken for BFS = 0.3450062148571014 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 11753
+ Time taken for A*linear = 0.018714699983596803 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 783
+ Time taken for A* manhattan = 0.00010211181640625 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 783
+ Time taken for A* max_heuristics = 0.00010416412353515625 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131274.txt
+Generated nodes:  114660
+ Time taken for BFS = 0.34750952386856077 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 11490
+ Time taken for A*linear = 0.017977618932724 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 679
+ Time taken for A* manhattan = 7.941198348999023e-05 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 679
+ Time taken for A* max_heuristics = 8.180522918701172e-05 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131248.txt
+Generated nodes:  111514
+ Time taken for BFS = 0.332071713924408 ms
+Path length: 24
+['LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN']
+
+
+
+
+Number of Generated Nodes: 12907
+ Time taken for A*linear = 0.02169116997718811 ms
+Path length: 24
+['LEFT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN']
+
+
+Number of Generated Nodes: 1672
+ Time taken for A* manhattan = 0.0004143059253692627 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1672
+ Time taken for A* max_heuristics = 0.00041966629028320314 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131370.txt
+Generated nodes:  117952
+ Time taken for BFS = 0.34801967906951903 ms
+Path length: 24
+['DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 14967
+ Time taken for A*linear = 0.02944275712966919 ms
+Path length: 24
+['DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1065
+ Time taken for A* manhattan = 0.00017579793930053711 ms
+Path length: 24
+['DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1065
+ Time taken for A* max_heuristics = 0.00017809796333312987 ms
+Path length: 24
+['DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131400.txt
+Generated nodes:  105347
+ Time taken for BFS = 0.30213569808006285 ms
+Path length: 24
+['DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 12959
+ Time taken for A*linear = 0.02242420792579651 ms
+Path length: 24
+['DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1458
+ Time taken for A* manhattan = 0.000310014009475708 ms
+Path length: 24
+['DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1458
+ Time taken for A* max_heuristics = 0.00031398296356201173 ms
+Path length: 24
+['DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131374.txt
+Generated nodes:  115432
+ Time taken for BFS = 0.3513884930610657 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 12223
+ Time taken for A*linear = 0.020319581985473633 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1058
+ Time taken for A* manhattan = 0.00016952919960021973 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1058
+ Time taken for A* max_heuristics = 0.00017212915420532226 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131406.txt
+Generated nodes:  97337
+ Time taken for BFS = 0.2666387300491333 ms
+Path length: 24
+['DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 12105
+ Time taken for A*linear = 0.019509204149246215 ms
+Path length: 24
+['DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1515
+ Time taken for A* manhattan = 0.00035242295265197756 ms
+Path length: 24
+['DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1515
+ Time taken for A* max_heuristics = 0.00035567688941955567 ms
+Path length: 24
+['DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131378.txt
+Generated nodes:  96973
+ Time taken for BFS = 0.2664514009952545 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 13190
+ Time taken for A*linear = 0.022792093992233278 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 2434
+ Time taken for A* manhattan = 0.0008527600765228272 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 2434
+ Time taken for A* max_heuristics = 0.0008541629314422608 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131345.txt
+Generated nodes:  96208
+ Time taken for BFS = 0.26282149481773376 ms
+Path length: 24
+['DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 11407
+ Time taken for A*linear = 0.017518624067306518 ms
+Path length: 24
+['DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 564
+ Time taken for A* manhattan = 5.442905426025391e-05 ms
+Path length: 24
+['DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 564
+ Time taken for A* max_heuristics = 5.5789232254028324e-05 ms
+Path length: 24
+['DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131425.txt
+Generated nodes:  113913
+ Time taken for BFS = 0.34398187923431395 ms
+Path length: 24
+['RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 12476
+ Time taken for A*linear = 0.021045469999313355 ms
+Path length: 24
+['RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1530
+ Time taken for A* manhattan = 0.0003453083038330078 ms
+Path length: 24
+['RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1530
+ Time taken for A* max_heuristics = 0.00034883284568786624 ms
+Path length: 24
+['RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131394.txt
+Generated nodes:  96467
+ Time taken for BFS = 0.26330905508995056 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 13778
+ Time taken for A*linear = 0.024811521768569947 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 2496
+ Time taken for A* manhattan = 0.0009251561164855957 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 2496
+ Time taken for A* max_heuristics = 0.0009274661540985107 ms
+Path length: 24
+['UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131455.txt
+Generated nodes:  115452
+ Time taken for BFS = 0.35036551976203917 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 13454
+ Time taken for A*linear = 0.023824290037155152 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 2288
+ Time taken for A* manhattan = 0.0007906150817871094 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 2288
+ Time taken for A* max_heuristics = 0.0007961721420288086 ms
+Path length: 24
+['LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131324.txt
+Generated nodes:  105808
+ Time taken for BFS = 0.30467646503448487 ms
+Path length: 24
+['UP', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 11667
+ Time taken for A*linear = 0.018275606870651245 ms
+Path length: 24
+['UP', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 793
+ Time taken for A* manhattan = 0.00010239887237548829 ms
+Path length: 24
+['UP', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 793
+ Time taken for A* max_heuristics = 0.00010451197624206543 ms
+Path length: 24
+['UP', 'LEFT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131279.txt
+Generated nodes:  112057
+ Time taken for BFS = 0.3351829319000244 ms
+Path length: 24
+['RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 12558
+ Time taken for A*linear = 0.021018889904022217 ms
+Path length: 24
+['RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1820
+ Time taken for A* manhattan = 0.0005067570209503174 ms
+Path length: 24
+['RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1820
+ Time taken for A* max_heuristics = 0.0005104408264160156 ms
+Path length: 24
+['RIGHT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131286.txt
+Generated nodes:  97047
+ Time taken for BFS = 0.2663648738861084 ms
+Path length: 24
+['UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 12755
+ Time taken for A*linear = 0.021210702180862427 ms
+Path length: 24
+['UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1291
+ Time taken for A* manhattan = 0.00025503277778625487 ms
+Path length: 24
+['UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 1291
+ Time taken for A* max_heuristics = 0.00025926303863525393 ms
+Path length: 24
+['UP', 'UP', 'RIGHT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+ /Users/erandasooriyarachchi/Downloads/Part3/L24/131256.txt
+Generated nodes:  96119
+ Time taken for BFS = 0.2621742568016052 ms
+Path length: 24
+['DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+
+
+Number of Generated Nodes: 12159
+ Time taken for A*linear = 0.01989011788368225 ms
+Path length: 24
+['DOWN', 'DOWN', 'LEFT', 'UP', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'DOWN', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 959
+ Time taken for A* manhattan = 0.0001441330909729004 ms
+Path length: 24
+['DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+Number of Generated Nodes: 959
+ Time taken for A* max_heuristics = 0.00014625120162963868 ms
+Path length: 24
+['DOWN', 'LEFT', 'UP', 'LEFT', 'DOWN', 'RIGHT', 'RIGHT', 'DOWN', 'LEFT', 'LEFT', 'UP', 'RIGHT', 'RIGHT', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT', 'UP', 'UP', 'LEFT', 'DOWN', 'DOWN', 'RIGHT']
+
+
+BFS Average time: 0.15490724776387216
+
+
+IDS Average time: 0.0
+
+
+A* H1 Average time: 0.01109394434094429
+
+
+A* H2 Average time: 0.00018476710319519042
+
+
+A* H3 Average time: 0.00018645215630531308

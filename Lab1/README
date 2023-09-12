@@ -1,0 +1,27 @@
+Part 1
+To run a particular algorithm on a txt file with the puzzle, enter the following in the terminal:
+python3 cs572lab1.py ./Part2/S4.txt BFS
+
+Part 2
+To run all the algorithms on all puzzles in Part 2 you should enter the following in the terminal:
+  	python3 lab1part3.py ./Part2 > Part2.txt
+
+Part 3
+To run all algorithm on all text files in a folder with the puzzle
+
+To run all the algorithms on all files in L8:
+python3 lab1part3.py ./Part3/L8
+
+To run all the algorithms on all files in L15:
+python3 lab1part3.py ./Part3/L15
+
+To run all the algorithms on all files in L24:
+python3 lab1part3.py ./Part3/L24
+
+If you want to save results into a .txt file:
+python3 lab1part3.py ./Part3/L8 > L8.txt
+python3 lab1part3.py ./Part3/L15 > L15.txt
+python3 lab1part3.py ./Part3/L24 > L24.txt
+
+
+
